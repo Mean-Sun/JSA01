@@ -1,0 +1,17 @@
+#bg{
+  background-image: url('./118315109_1616774028482132_2939098609556950361_o\ -\ Copy.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  position: absolute;
+}
+#black-gradient{
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  background-color: rgb(1, 1, 1);
+  opacity: 0.4;
+}
+#content{
+  position: absolute;
+}
